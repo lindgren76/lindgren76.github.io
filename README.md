@@ -1,2 +1,2 @@
 # lindgren76.github.io
-Kust a test website
+Just a test website
